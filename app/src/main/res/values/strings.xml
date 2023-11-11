@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Flower</string>
+
+    <string name="message">Let\'s water to the plant!</string>
+    <string name="message0">Give more and more water!</string>
+    <string name="message1">Still insufficient!</string>
+    <string name="message2">What will bloom?</string>
+    <string name="message3">The plant has grown!</string>
+    <string name="message4">The flower is about to bloom!</string>
+    <string name="message5">Congrats!\nThe flower has bloomed!</string>
+    <string name="img_flower">flower image</string>
+    <string name="btn_water">water the plant</string>
+    <string name="btn_reset">reset</string>
+
+</resources>
